@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Entornos y secretos
+.env
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
